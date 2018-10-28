@@ -5,7 +5,7 @@
   "main": "",
   "scripts": {
     "test": "mocha",
-    "eslint": "eslint"
+    "eslint":"eslint"
   },
   "repository": {
     "type": "git",
